@@ -2,6 +2,8 @@
 
 A presentation on a few bits and pieces of TypeScript that I thought could be explained some more.
 
+Presented via Visual Studio Code using the [Slides](https://marketplace.visualstudio.com/items?itemName=nicoespeon.slides) extension, inspired by [André Staltz's post](https://staltz.com/your-ide-as-a-presentation-tool.html)
+
 ## References
 
 These are all from the [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
