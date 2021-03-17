@@ -3,13 +3,13 @@ interface Person {
   lastName?: string;
 }
 
-const lorde: Person = {
-  firstName: "Lorde",
-};
-
-const me: Person = {
+// You can create an object with both properties...
+let me: Person = {
   firstName: "Chris",
   lastName: "Lam",
 };
 
-console.log(`Hello, ${me.firstName} ${me.lastName}`);
+// ...or just a firstName
+let lorde: Person = {
+  firstName: "Lorde",
+};
