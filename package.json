@@ -1,0 +1,18 @@
+{
+  "name": "typescript-presentation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chrislam/typescript-presentation.git",
+  "author": "Chris Lam <chris.lam@asknice.ly>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@tsconfig/node14": "^1.0.0"
+  },
+  "dependencies": {
+    "typescript": "^4.2.3"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
