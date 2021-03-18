@@ -13,3 +13,7 @@ let me: Person = {
 let lorde: Person = {
   firstName: "Lorde",
 };
+
+if (lorde.lastName) {
+  console.log(`Hello, ${lorde.lastName}`);
+}
